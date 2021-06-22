@@ -2,3 +2,5 @@ teste de git com o paulin
 a
 
 estou alterando esse arquivo
+
+Eu, Valdir estou adicionando um linha neste arquivo
