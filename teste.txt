@@ -1,6 +1,6 @@
 teste de git com o paulin
 a
 
-estou alterando esse arquivo
+estou alterando esse arquivo(Paulo)
 
 Eu, Valdir estou adicionando um linha neste arquivo
